@@ -1,0 +1,20 @@
+{
+  "name": "mistermarlu/build",
+  "description": "My first composer project",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Luca Braun",
+      "email": "mistermarlu-tv@web.de"
+    }
+  ],
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  },
+  "require": {
+    "php": ">=7.2.3"
+  }
+}
